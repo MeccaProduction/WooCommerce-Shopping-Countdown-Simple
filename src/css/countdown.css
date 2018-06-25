@@ -1,0 +1,14 @@
+#countdownTimer {
+	float: right;
+	height: 54px;
+	font-size: 20px;
+	font-weight: 700;
+	position:fixed;
+	top:0;
+	text-align:center;
+	z-index: 100000;
+	width:100%;
+	padding-top:10px;
+	background: #2c2d33;
+	color: white;
+}
